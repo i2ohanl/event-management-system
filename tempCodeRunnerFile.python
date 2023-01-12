@@ -1,0 +1,3 @@
+from database import *
+
+print(view_all_data("event_requests"))
